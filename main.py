@@ -37,7 +37,7 @@ clock = pygame.time.Clock()
 FPS = 60
 
 #define game variables
-GRAVITY = 0.2 # 0.75
+GRAVITY = 0.8 # 0.75
 SCROLL_THRESH = 200
 ROWS = 16
 COLS = 150
@@ -46,7 +46,7 @@ TILE_TYPES = 21
 MAX_LEVELS = 4
 screen_scroll = 0
 bg_scroll = 0
-level = 4
+level = 1
 start_game = False
 start_intro = False
 
